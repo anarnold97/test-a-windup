@@ -5,7 +5,7 @@ This repository contains the files for Windup documentation.
 
 MTA is an automated application migration and assessment tool.
 
-For developer-focused documentation, see the [Windup wiki](https://github.com/windup/windup/wiki).
+// For developer-focused documentation, see the [Windup wiki](https://github.com/windup/windup/wiki).
 
 ## Contributing to MTA documentation
 
