@@ -3,14 +3,7 @@
 
 Prabha blah blah blah blah blah 
 
-MTA is an automated application migration and assessment tool.
 
-// For developer-focused documentation, see the [Windup wiki](https://github.com/windup/windup/wiki).
-
-## Contributing to MTA documentation
-
-This project is [Apache 2.0 licensed](LICENSE) and accepts contributions via
-GitHub pull requests.
 
 See the [Contributors Guide](CONTRIBUTING.adoc) for details.
 
