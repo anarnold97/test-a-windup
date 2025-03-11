@@ -3,34 +3,26 @@
 
 Prabha blah blah blah blah blah 
 
+Prabha blah blah blah blah blah
 
+Prabha blah blah blah blah blah
 
-See the [Contributors Guide](CONTRIBUTING.adoc) for details.
+Prabha blah blah blah blah blah
 
-## Reporting a documentation bug
-
-// To report a Windup documentation issue, submit a Jira issue on the [Windup project page]]{JiraWindupURL} with the *Component* field set to *Documentation*.
-
-## Repository Structure
-
-This repository uses the following directory structure:
-
+Prabha blah blah blah blah blah
 ```
 .
 ├── CONTRIBUTING.adoc (Guide for how to contribute to this repository)
-├── README.md (This file)
+Prabha blah blah blah blah blah
 ├── topics (Symbolic link to docs/topics/)
 └── docs/ (Contains all the asciidoc topics and top level content spec)
-    ├── GUIDE_NAME/
-    │   ├── master.adoc (Base AsciiDoc file for this guide)
-    │   ├── master-docinfo.xml (Metadata about this guide)
-    │   └── topics (Symbolic link to docs/topics/)
+Prabha blah blah blah blah blah
     └── topics/
             ├── images/ (Contains all images)
             │   ├── *.png
             ├── templates/ (AsciiDoc templates to be used across guides)
-            │   ├── document-attributes.adoc (Stores attributes used across guides)
-            │   ├── revision-info.adoc (Revision timestamp to be added to all guides)
+            ├──  Prabha blah blah blah blah blah
+            ├── Prabha blah blah blah blah blah
             └── *.adoc (AsciiDoc files used across guides)
 ```
 
