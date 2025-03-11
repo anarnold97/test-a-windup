@@ -45,6 +45,4 @@ This repository uses the following directory structure:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
-## PR preview rendering
 
-[![](https://www.netlify.com/img/global/badges/netlify-light.svg)](https://www.netlify.com)
